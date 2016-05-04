@@ -1,5 +1,5 @@
 #APK爬虫
-简介：本程序是通过分析Web页面并利用`curl `& `wget`工具对安卓应用商店（https://apkpure.com/app）的APK进行爬取。  
+简介：本程序是通过分析Web页面并利用`curl `& `wget`工具对安卓应用商店（ https://apkpure.com/app ）的APK进行爬取。  
 
 
 
